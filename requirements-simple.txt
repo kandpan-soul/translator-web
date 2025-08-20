@@ -1,0 +1,118 @@
+# AI Language Hub - Simplified Requirements
+# Install with: npm install
+
+# Core Framework
+next
+react
+react-dom
+typescript
+tsx
+
+# Styling & UI
+tailwindcss
+@tailwindcss/postcss
+tailwindcss-animate
+lucide-react
+clsx
+tailwind-merge
+class-variance-authority
+framer-motion
+
+# Radix UI Components
+@radix-ui/react-slot
+@radix-ui/react-separator
+@radix-ui/react-label
+@radix-ui/react-accordion
+@radix-ui/react-alert-dialog
+@radix-ui/react-avatar
+@radix-ui/react-checkbox
+@radix-ui/react-collapsible
+@radix-ui/react-dialog
+@radix-ui/react-dropdown-menu
+@radix-ui/react-hover-card
+@radix-ui/react-menubar
+@radix-ui/react-navigation-menu
+@radix-ui/react-popover
+@radix-ui/react-progress
+@radix-ui/react-radio-group
+@radix-ui/react-scroll-area
+@radix-ui/react-select
+@radix-ui/react-slider
+@radix-ui/react-switch
+@radix-ui/react-tabs
+@radix-ui/react-toast
+@radix-ui/react-toggle
+@radix-ui/react-toggle-group
+@radix-ui/react-tooltip
+@radix-ui/react-context-menu
+@radix-ui/react-aspect-ratio
+
+# Forms & Validation
+react-hook-form
+@hookform/resolvers
+zod
+input-otp
+
+# State Management
+zustand
+@tanstack/react-query
+@reactuses/core
+
+# AI & Voice Services
+@elevenlabs/elevenlabs-js
+elevenlabs
+z-ai-web-dev-sdk
+
+# Database
+prisma
+@prisma/client
+
+# Real-time
+socket.io
+socket.io-client
+
+# Date & Time
+date-fns
+react-day-picker
+
+# Content & Markdown
+react-markdown
+@mdxeditor/editor
+react-syntax-highlighter
+
+# Charts
+recharts
+
+# Carousel
+embla-carousel-react
+
+# Drag & Drop
+@dnd-kit/core
+@dnd-kit/sortable
+@dnd-kit/utilities
+
+# Utilities
+axios
+cmdk
+uuid
+vaul
+sonner
+react-resizable-panels
+
+# Authentication & i18n
+next-auth
+next-intl
+next-themes
+
+# Image Processing
+sharp
+
+# Development Dependencies
+eslint
+@eslint/eslintrc
+eslint-config-next
+@types/node
+@types/react
+@types/react-dom
+nodemon
+tw-animate-css
